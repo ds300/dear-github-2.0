@@ -72,6 +72,6 @@ Signed,
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
-- Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
+- David Sheldrick, @ds300 (patch-package, Artsy)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
